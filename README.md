@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Onni 👋
+## Software Developer | Full-stack
 
-<!--
-**onniluova/onniluova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- 🔭 I'm currently working on a dev toolkit website created with React for frontend and Node.js backend.
+- 🌱 I'm currently mastering React
 
-Here are some ideas to get you started:
+### My Tech Stack
+React
+JavaScript
+Node.js
+Java Spring Boot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect With Me
+Linkedin: https://www.linkedin.com/in/onni-luova-6456a8221/
