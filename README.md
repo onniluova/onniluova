@@ -12,6 +12,8 @@
 - JavaScript
 - Node.js
 - Java Spring Boot
+- IntelliJ IDEA
+- MariaDB
 
 ### Connect With Me
 Linkedin: https://www.linkedin.com/in/onni-luova-6456a8221/
