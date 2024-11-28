@@ -6,10 +6,10 @@
 - 🌱 I'm currently mastering React
 
 ### My Tech Stack
-React
-JavaScript
-Node.js
-Java Spring Boot
+- React
+- JavaScript
+- Node.js
+- Java Spring Boot
 
 ### Connect With Me
 Linkedin: https://www.linkedin.com/in/onni-luova-6456a8221/
