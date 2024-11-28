@@ -2,8 +2,8 @@
 ## Software Developer | Full-stack
 
 ### About Me
-- 🔭 I'm currently working on a dev toolkit website created with React for frontend and Node.js backend.
-- 🌱 I'm currently mastering React
+- 🔭 I'm currently working on a dev toolkit website created with React and Node.js
+- 🌱 I'm currently learning React
 
 ### My Tech Stack
 - React
