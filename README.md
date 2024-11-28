@@ -16,4 +16,4 @@
 - MariaDB
 
 ### Connect With Me
-Linkedin: https://www.linkedin.com/in/onni-luova-6456a8221/
+LinkedIn: https://www.linkedin.com/in/onni-luova-6456a8221/
